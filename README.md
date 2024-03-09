@@ -1,2 +1,5 @@
-# User-input
-Java class work, learning to get user input and printing certain information depending on the input provided. 
+Main.java
+- Getting user input
+- using a do-while loop
+- checking for correct input
+- calculating the cost for shipping 
